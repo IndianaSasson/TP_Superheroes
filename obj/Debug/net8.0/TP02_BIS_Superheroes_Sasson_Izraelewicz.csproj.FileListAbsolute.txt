@@ -1,0 +1,14 @@
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\bin\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.exe
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\bin\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.deps.json
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\bin\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.runtimeconfig.json
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\bin\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.dll
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\bin\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.pdb
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.AssemblyInfoInputs.cache
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.AssemblyInfo.cs
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.csproj.CoreCompileInputs.cache
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.dll
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\refint\TP02_BIS_Superheroes_Sasson_Izraelewicz.dll
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.pdb
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\TP02_BIS_Superheroes_Sasson_Izraelewicz.genruntimeconfig.cache
+Z:\Programacion\4to\TP02_BIS_Superheroes_Sasson_Izraelewicz\obj\Debug\net8.0\ref\TP02_BIS_Superheroes_Sasson_Izraelewicz.dll
